@@ -464,7 +464,7 @@ em + p {
 }
 .parallax1 {
   background-color: #1e283a;
-  background-image: url(../images/parallax01.jpg);
+  background-image: url("../images/farm_pics/astro_4.gif");
 }
 @media (min-width: 2050px) {
   .parallax {
@@ -506,7 +506,7 @@ em + p {
 /*==========================Brand========================*/
 .brand_name {
   font-size: 40px;
-  line-height: 36px;
+  line-height: 49px;
   font-weight: 500;
   color: #0B3B0B;
   text-transform: uppercase;
@@ -523,9 +523,9 @@ em + p {
 }
 .brand h1:before {
   content: '';
-  background: url("../images/tgs_logo.gif") no-repeat center;
-  width: 43px;
-  height: 35px;
+  background: url("../images/icons/TGS_Logo_XSm.png") no-repeat center;
+  width: 60px;
+  height: 49px;
   position: absolute;
   left: 0;
   top: 0;
