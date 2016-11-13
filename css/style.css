@@ -513,7 +513,7 @@ em + p {
   color: #0B3B0B;
   text-transform: uppercase;
   position: relative;
-  padding-left: 48px;
+  padding-left: 53px;
 }
 .brand_name span {
   color: #088A29;
@@ -525,7 +525,7 @@ em + p {
 }
 .brand h1:before {
   content: '';
-  background: url("../images/icons/TGS_Logo_XSm.png") no-repeat center;
+  background: url("../images/icons/TGS-Logo-v2.png") no-repeat center;
   width: 60px;
   height: 49px;
   position: absolute;
