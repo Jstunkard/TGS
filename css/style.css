@@ -73,9 +73,11 @@ a {
   -webkit-transition: 0.3s;
   transition: 0.3s;
 }
+/*
 a:hover {
   color: #ffffff;
 }
+*/
 a:active {
   background: transparent;
 }
