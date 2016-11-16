@@ -525,7 +525,7 @@ em + p {
 }
 .brand h1:before {
   content: '';
-  background: url("../images/icons/TGS-Logo-v2.png") no-repeat center;
+  background: url("../images/icons/TGS-logo-v2.png") no-repeat center;
   width: 60px;
   height: 49px;
   position: absolute;
