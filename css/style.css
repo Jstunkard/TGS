@@ -662,12 +662,36 @@ h4 + p.p__offs {
   background-position: 107px 0;
   display: inline-block;
 }
-.icon__ {
+.icon__1 {
   position: relative;
-  width: 107px;
-  height: 139px;
-  background: url("../images/sprite_border.png");
-  background-position: 107px 0;
+  width: 250px;
+  height: 108px;
+  background: url("../images/icons/bermuda_graph.svg");
+  background-position: 0px 1;
+  display: inline-block;
+}
+.icon__2 {
+  position: relative;
+  width: 250px;
+  height: 108px;
+  background: url("../images/icons/zoysia_graph.svg");
+  background-position: 0px 1;
+  display: inline-block;
+}
+.icon__3 {
+  position: relative;
+  width: 250px;
+  height: 108px;
+  background: url("../images/icons/fescue_graph.svg");
+  background-position: 0px 1;
+  display: inline-block;
+}
+.icon__4 {
+  position: relative;
+  width: 250px;
+  height: 108px;
+  background: url("../images/icons/buffalo_graph.svg");
+  background-position: 0px 1;
   display: inline-block;
 }
 .icon:before {
@@ -678,12 +702,7 @@ h4 + p.p__offs {
   top: 22px;
   left: 23px;
 }
-.icon__:before {
-  position: absolute;
-  font-family: 'FontAwesome';
-  font-size: 36px;
-  color: #4f697d;
-}
+
 .bg1:before {
   background: url("../images/page-1_sprite1.png");
   background-position: 0 0;
@@ -700,51 +719,14 @@ h4 + p.p__offs {
   background: url("../images/page-1_sprite1.png");
   background-position: -180px 0;
 }
-.bg1__:before {
-  content: '\f046';
-  top: 42px;
-  left: 40px;
-}
-.bg2__:before {
-  content: '\f108';
-  top: 42px;
-  left: 36px;
-}
-.bg3__:before {
-  content: '\f1b3';
-  top: 41px;
-  left: 34px;
-}
-.bg4__:before {
-  content: '\f0e7';
-  top: 42px;
-  left: 47px;
-}
-.bg1__2:before {
-  content: '\f0a1';
-  top: 42px;
-  left: 40px;
-}
-.bg2__2:before {
-  content: '\f02d';
-  top: 42px;
-  left: 36px;
-}
-.bg3__2:before {
-  content: '\f085';
-  top: 41px;
-  left: 34px;
-}
-.bg4__2:before {
-  content: '\f1cb';
-  top: 42px;
-  left: 37px;
-}
+
 .box_cnt1:hover .icon,
-.box_cnt1:hover .icon__ {
-  background: url("../images/sprite_border.png");
-  background-position: 0 0;
-}
+
+.box_cnt1:hover .icon__1,
+.box_cnt1:hover .icon__2,
+.box_cnt1:hover .icon__3,
+.box_cnt1:hover .icon__4,
+
 .icon + *,
 .icon__ + * {
   margin-top: 36px;
