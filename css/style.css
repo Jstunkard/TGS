@@ -1226,7 +1226,7 @@ main {
 }
 .section-sets3 p,
 .section-sets3 em {
-  font-size: 13px;
+  font-size: 20px;
 }
 .section-sets3 em {
   color: #e4012e;
@@ -1318,7 +1318,7 @@ main {
 footer {
   background: #1e283a;
   padding-top: 48px;
-  padding-bottom: 97px;
+  padding-bottom: 48px;
 }
 footer * {
   text-transform: uppercase;
