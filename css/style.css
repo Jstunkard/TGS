@@ -720,12 +720,12 @@ h4 + p.p__offs {
   background-position: -180px 0;
 }
 
-.box_cnt1:hover .icon,
+.box_cnt1:hover .icon
 
-.box_cnt1:hover .icon__1,
-.box_cnt1:hover .icon__2,
-.box_cnt1:hover .icon__3,
-.box_cnt1:hover .icon__4,
+.box_cnt1:hover .icon__1
+.box_cnt1:hover .icon__2
+.box_cnt1:hover .icon__3
+.box_cnt1:hover .icon__4
 
 .icon + *,
 .icon__ + * {
